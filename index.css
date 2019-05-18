@@ -1,24 +1,24 @@
-@media (min-width: 575px) {
+@media (min-width: 767px) {
   .nav-link {
     color: black;
   }
 }
-@media (max-width: 575px) {
+@media (max-width: 767px) {
   .nav-link {
     color: white;
   }
 }
-@media (min-width: 575px) {
+@media (min-width: 767px) {
   .navbar-brand {
     color: black;
   }
 }
-@media (max-width: 575px) {
+@media (max-width: 767px) {
   .navbar-brand {
     color: white;
   }
 }
-@media (max-width: 575px) {
+@media (max-width: 767px) {
   #myNavbar {
     background: black;
   }
