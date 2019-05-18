@@ -18,11 +18,11 @@
     color: white;
   }
 }
-@media (max-width: 767px) {
+/* @media (max-width: 767px) {
   #myNavbar {
     background: black;
   }
-}
+} */
 @media (max-width: 767px) {
   #myNavbar2 {
     background: black;
