@@ -21,7 +21,6 @@
 @media (max-width: 767px) {
   #myNavbar {
     background: black;
-    width: 100%;
   }
 }
 .navbar-brand,
@@ -31,4 +30,9 @@
 .navbar-brand {
   font-weight: 900;
   font-size: 1.5rem;
+}
+@media (max-width: 767px) {
+  div .container {
+    width: 100%;
+  }
 }
