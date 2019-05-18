@@ -8,6 +8,16 @@
     color: white;
   }
 }
+@media (min-width: 575px) {
+  .navbar-brand {
+    color: black;
+  }
+}
+@media (max-width: 575px) {
+  .navbar-brand {
+    color: white;
+  }
+}
 @media (max-width: 575px) {
   #myNavbar {
     background: black;
