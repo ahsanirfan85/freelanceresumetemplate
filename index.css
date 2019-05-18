@@ -19,12 +19,12 @@
   }
 }
 /* @media (max-width: 767px) {
-  #myNavbar {
+  #myNavbar2 {
     background: black;
   }
 } */
 @media (max-width: 767px) {
-  #myNavbar2 {
+  #myNavbar {
     background: black;
   }
 }
