@@ -23,3 +23,7 @@
     background: black;
   }
 }
+.navbar-brand,
+.nav-link {
+  font-family: Poppins;
+}
