@@ -1,3 +1,5 @@
-#myNavbar {
-  background: black;
+@media (max-width: 768px) {
+  #myNavbar {
+    background: black;
+  }
 }
