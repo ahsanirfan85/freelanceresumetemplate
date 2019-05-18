@@ -23,6 +23,11 @@
     background: black;
   }
 }
+@media (max-width: 767px) {
+  #myNavbar2 {
+    background: black;
+  }
+}
 .navbar-brand,
 .nav-link {
   font-family: Poppins;
