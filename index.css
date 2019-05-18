@@ -3,3 +3,8 @@
     background: black;
   }
 }
+@media (max-width: 575px) {
+  #myNavbar .text-body {
+    color: white;
+  }
+}
