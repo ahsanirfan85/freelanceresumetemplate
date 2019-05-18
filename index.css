@@ -1,6 +1,8 @@
 @media (max-width: 575px) {
   #myNavbar {
     background: black;
+  }
+  #myNavbar .div .a {
     color: white;
   }
 }
