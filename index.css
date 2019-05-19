@@ -57,6 +57,6 @@
   -webkit-transform: scaleX(0.7);
   transform: scaleX(0.7);
 }
-#partialBlueBG {
-  background-color: #5bc0de;
+.bg-info {
+  background-color: #90caf9;
 }
