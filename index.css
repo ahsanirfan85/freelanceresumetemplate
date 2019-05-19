@@ -56,7 +56,3 @@
   visibility: visible;
   -webkit-transform: scaleX(0.7);
   transform: scaleX(0.7);
-}
-#partialBlueBG {
-  background-color: #90caf9;
-}
