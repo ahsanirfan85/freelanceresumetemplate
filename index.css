@@ -56,3 +56,6 @@
   visibility: visible;
   -webkit-transform: scaleX(0.7);
   transform: scaleX(0.7);
+#bgBox {
+  height: 100px;
+}
