@@ -56,6 +56,10 @@
   visibility: visible;
   -webkit-transform: scaleX(0.7);
   transform: scaleX(0.7);
-#bgBox {
-  height: 100px;
+
+.make-first-div-red > div:first-child,
+.make-it-red {
+    background-color: #f00;
+    min-height: 30px;
+    margin-bottom: 10px;
 }
