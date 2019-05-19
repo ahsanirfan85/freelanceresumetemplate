@@ -57,6 +57,6 @@
   -webkit-transform: scaleX(0.7);
   transform: scaleX(0.7);
 }
-.bg-info {
+div .bg-info {
   background-color: #90caf9;
 }
