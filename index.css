@@ -51,6 +51,6 @@
 }
 .nav-link:hover:before {
   visibility: visible;
-  -webkit-transform: scaleX(0.75);
-  transform: scaleX(0.75);
+  -webkit-transform: scaleX(0.7);
+  transform: scaleX(0.7);
 }
