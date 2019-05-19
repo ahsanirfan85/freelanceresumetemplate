@@ -35,6 +35,9 @@
   position: relative;
   text-decoration: none;
 }
+.nav-link:hover {
+  color: black;
+}
 .nav-link:before {
   content: "";
   position: absolute;
