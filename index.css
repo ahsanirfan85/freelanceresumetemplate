@@ -56,10 +56,11 @@
   visibility: visible;
   -webkit-transform: scaleX(0.7);
   transform: scaleX(0.7);
+}
 
 .make-first-div-red > div:first-child,
 .make-it-red {
-    background-color: #f00;
-    min-height: 30px;
-    margin-bottom: 10px;
+  background-color: #f00;
+  min-height: 30px;
+  margin-bottom: 10px;
 }
