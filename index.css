@@ -58,7 +58,5 @@
   transform: scaleX(0.7);
 }
 .box {
-  border: 3px solid black;
-  height: 200px;
   background-color: red;
 }
