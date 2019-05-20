@@ -58,6 +58,6 @@
   transform: scaleX(0.7);
 }
 .box {
-  border: 0px;
+  border: 1px;
   background-color: red;
 }
