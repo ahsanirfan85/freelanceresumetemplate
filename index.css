@@ -59,5 +59,6 @@
 }
 .box {
   border: 1px solid;
+  border-color: red;
   background-color: red;
 }
